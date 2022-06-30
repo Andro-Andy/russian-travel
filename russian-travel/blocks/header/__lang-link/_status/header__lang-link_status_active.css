@@ -1,0 +1,4 @@
+.header__lang-link_status_active {
+  box-shadow: 0 1px 0 0 white;
+  cursor: default;
+}

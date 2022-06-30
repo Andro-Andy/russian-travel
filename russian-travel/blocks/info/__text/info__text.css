@@ -1,0 +1,18 @@
+.info__text {
+  margin: 0 0 36px 0;
+  max-width: 690px;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  color: #ffffff;
+}
+@media (min-width: 426px) and (max-width: 768px) {
+  .info__text {
+    max-width: 100%;
+  }
+}
+@media (max-width: 425px) {
+  .info__text {
+    max-width: 100%;
+  }
+}

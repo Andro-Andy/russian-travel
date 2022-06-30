@@ -1,0 +1,21 @@
+.info {
+  margin: 0 auto 92px;
+  max-width: 984px;
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+  .info {
+    max-width: calc(100% - 96px);
+  }
+}
+@media (min-width:426px) and (max-width: 768px) {
+  .info {
+    margin: 0 auto 88px;
+    max-width: calc(100% - 48px);
+  }
+}
+@media (max-width: 425px) {
+  .info {
+    margin: 0 auto 64px;
+    max-width: calc(100% - 32px);
+  }
+}
