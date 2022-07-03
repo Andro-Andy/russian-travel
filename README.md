@@ -1,5 +1,4 @@
 # Проект: Путешествие по России
-https://ww228ww.github.io/russian-travel/
 ### Обзор
 * Интро
 * Figma
@@ -21,3 +20,4 @@ https://ww228ww.github.io/russian-travel/
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+[Посмотреть](https://ww228ww.github.io/russian-travel/index.html)
