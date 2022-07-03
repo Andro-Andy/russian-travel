@@ -8,7 +8,7 @@
 @import url('../blocks/header/__lang-list/header__lang-list.css');
 @import url('../blocks/header/__lang-item/header__lang-item.css');
 @import url('../blocks/header/__lang-link/header__lang-link.css');
-@import url('../blocks/header/__lang-link/_status/header__lang-link_status_active.css');
+@import url('../blocks/header/__lang-link/_active/header__lang-link_active.css');
 /* Секция lead */
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__title/lead__title.css');
@@ -49,4 +49,4 @@
 @import url('../blocks/footer/__list-link/footer__list-link.css');
 @import url('../blocks/footer/__list-item/footer__list-item.css');
 @import url('../blocks/footer/__link/footer__link.css');
-@import url('../blocks/footer/__author/footer__author.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
