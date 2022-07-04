@@ -3,7 +3,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 92px auto 24px;
+  margin: 92px auto 64px;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
