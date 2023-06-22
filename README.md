@@ -20,4 +20,4 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
-[Посмотреть](https://ww228ww.github.io/russian-travel/index.html)
+[Посмотреть](https://Andro-Andy.github.io/russian-travel/index.html)
